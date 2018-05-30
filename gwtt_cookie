@@ -1,0 +1,7 @@
+# Netscape HTTP Cookie File
+# http://curl.haxx.se/rfc/cookie_spec.html
+# This is a generated file!  Do not edit.
+
+192.168.15.26	FALSE	/	FALSE		ASP.NET_SessionId	glmjfy55v1uqd255zbk0wg2n
+192.168.15.26	FALSE	/	FALSE	253402300799	Login	PassWord
+192.168.15.26	FALSE	/	FALSE	253402300799	SessionID0540	glmjfy55v1uqd255zbk0wg2n
